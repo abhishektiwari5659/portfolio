@@ -1,5 +1,5 @@
 import React from "react";
-import { FaGithub, FaLinkedin, FaTwitter, FaArrowUp } from "react-icons/fa";
+import { FaGithub, FaLinkedin, FaInstagram, FaArrowUp } from "react-icons/fa";
 import { motion } from "framer-motion";
 
 const Footer = () => {
@@ -32,9 +32,9 @@ const Footer = () => {
           viewport={{ once: true }}
         >
           {[
-            { href: "https://github.com/abhishek", icon: <FaGithub /> },
-            { href: "https://linkedin.com/in/abhishek", icon: <FaLinkedin /> },
-            { href: "https://twitter.com/abhishek", icon: <FaTwitter /> },
+            { href: "https://github.com/abhishektiwari5659", icon: <FaGithub /> },
+            { href: "https://linkedin.com/in/abhishek-tiwari-dev", icon: <FaLinkedin /> },
+            { href: "https://www.instagram.com/_._abhishek_07/", icon: <FaInstagram /> },
           ].map((social, i) => (
             <motion.a
               key={i}

@@ -13,7 +13,7 @@ const projects = [
     title: 'Portfolio Website',
     description: 'Responsive and modern personal portfolio built with React and TailwindCSS.',
     image: '/images/portfolio.png',
-    link: 'https://github.com/yourusername/portfolio'
+    link: 'https://github.com/abhishektiwari5659/portfolio.git'
   },
   {
     title: 'GalaticVisions',
