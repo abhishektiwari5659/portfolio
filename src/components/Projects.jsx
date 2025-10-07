@@ -7,7 +7,7 @@ const projects = [
     title: 'Jewelry E-Commerce Website',
     description: 'Full-stack e-commerce website with cart, payment gateway, and admin panel.',
     image: '/images/jewelry.png',
-    link: 'https://github.com/yourusername/jewelry-ecommerce'
+    link: 'https://github.com/abhishektiwari5659/Jewellery-ecommerce'
   },
   {
     title: 'Portfolio Website',
@@ -19,19 +19,19 @@ const projects = [
     title: 'GalaticVisions',
     description: "GalacticVisions is a web project that brings the beauty of space to your screen using NASA's public APIs. Explore daily space images, celestial events, and cosmic wonders. Designed for astronomy lovers and curious minds, it’s a simple, responsive site built with HTML, CSS, and JavaScript.",
     image: '/images/GalaticVisions.png',
-    link: 'https://github.com/yourusername/project4'
+    link: 'https://galatic-visions.vercel.app'
   },
   {
     title: 'Foodify – Swiggy Clone',
     description: 'Full-stack food delivery web app inspired by Swiggy with menu browsing, cart, and checkout functionality.',
     image: '/images/foodify.png',
-    link: 'https://github.com/yourusername/foodify'
+    link: 'https://foodify-woad.vercel.app'
   },
   {
     title: 'MovieMate – AI-Powered Movie Discovery',
     description: 'Netflix-inspired web app using React, TailwindCSS, and Redux Toolkit. Integrated Firebase authentication, TMDB API, and Google Gemini AI for personalized recommendations. Features include "Get What You Like" page, dynamic movie details, trailers, cast info, and live deployment on Vercel.',
     image: '/images/moviemate.png',
-    link: 'https://github.com/yourusername/moviemate'
+    link: 'https://moviemate-opal.vercel.app'
   }
 ];
 
